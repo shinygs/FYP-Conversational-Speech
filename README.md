@@ -8,7 +8,7 @@ $ conda activate conv_sph
 
 ## Usage
 ### File Processing
-#### Youtube Transcript to SRT File Converter
+#### Youtube Transcript to SRT Converter
 Run the YT_transcript_to_srt.py script with the following arguments:
 1. Path to the folder containing Youtube video transcripts
 ```
@@ -17,7 +17,7 @@ $ python YT_transcript_to_srt.py C:/example/cwd/mydir/transcripts
 The SRT files will be located at C:/example/cwd/mydir/srt   
 <br/>
 
-#### Split YouTube Audio File on the Sentence-Level
+#### Split YouTube Audio on Sentence-Level
 Run the split_audio_sentence_level.py script with the following arguments:
 1. Path to the folder containing folders of Youtube video transcripts and wav files
 ```
