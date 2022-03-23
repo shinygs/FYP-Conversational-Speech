@@ -36,3 +36,7 @@ A 'output.vtt' file will be located in the vtt_clean folder
 $ python sentence_segementation_with_times.py C:/example/cwd/mydir/vtt_clean/output.vtt
 ```
 The new file with the segmented sentences and timestamps will be located at C:/example/cwd/mydir/vtt_clean/segmented_text_with_times.txt
+<br/>
+<br/>
+[For script testing purposes]:
+Test run can be done on the included 'input.txt' file in the vtt_clean folder
