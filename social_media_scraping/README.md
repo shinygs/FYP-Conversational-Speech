@@ -15,7 +15,7 @@ The scraped data will be located at C:/example/cwd/mydir/Scraped_reddit_data.jso
 <br/>
 
 ## Twitter Scraper
-This script scrapes tweets and their related information 
+This script scrapes tweets and their related information without requiring existing Twitter developer account credentials
 <br/>
 
 ### Usage
