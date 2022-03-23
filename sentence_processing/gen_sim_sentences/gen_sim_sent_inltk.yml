@@ -1,0 +1,4 @@
+name: gen_sim_sent_inltk
+channels:
+  - defaults
+prefix: C:\Users\shiny\Anaconda3\envs\inltk_mdl\envs\inltk_mdl
