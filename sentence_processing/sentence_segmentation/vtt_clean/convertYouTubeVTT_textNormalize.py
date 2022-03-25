@@ -183,7 +183,7 @@ def getTimeFromStr(inTimeStr):
 
 
 # begining of my program
-infilepath = r'C:\Users\shiny\Documents\Y4S1\FYP\vtt_clean\input.vtt'
+infilepath = r'C:\Users\shiny\Documents\Y4S1\FYP\FYP-Conversational-Speech\sentence_processing\sentence_segmentation\vtt_clean\input.vtt'
 
 with open(infilepath) as fp:
     
@@ -218,7 +218,7 @@ with open(infilepath) as fp:
     # hi Zin, here is the op of allListWords with time!
     print('\n=================================================\n')
     
-    opFileName= r"C:\Users\shiny\Documents\Y4S1\FYP\vtt_clean\output.vtt"
+    opFileName= r"C:\Users\shiny\Documents\Y4S1\FYP\FYP-Conversational-Speech\sentence_processing\sentence_segmentation\vtt_clean\output.vtt"
     generate_newTranscriptBreak(opFileName, allListWordsTime)
         
     fp.close()

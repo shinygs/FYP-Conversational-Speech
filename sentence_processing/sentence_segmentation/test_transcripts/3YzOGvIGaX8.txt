@@ -1,0 +1,740 @@
+0.00 0.72	[Music]
+0.72 3.12	a vaccine usually takes over 10 years to
+3.12 3.92	develop
+3.92 6.00	but against all odds in just eight
+6.00 6.96	months
+6.96 10.88	seven vaccines are now approved for use
+10.88 12.88	the first batch of vaccines arrived in
+12.88 15.36	singapore on the 21st of december
+15.36 17.92	making us the first country in asia to
+17.92 19.76	approve and take in the vaccine
+19.76 23.28	developed by pfizer and biontech
+23.28 25.12	[Music]
+25.12 28.00	vaccination is free for all singaporeans
+28.00 28.32	and
+28.32 31.36	long-term residents but it's voluntary
+31.36 34.24	will you take the corvette 19 vaccine
+34.24 34.64	well
+34.64 36.08	if you've been in two minds about it
+36.08 37.76	then you want to stay tuned because
+37.76 39.60	joining me today i have top medical
+39.60 40.48	experts and
+40.48 42.32	minister lawrence wong who co-chairs
+42.32 44.88	singapore's maoti ministry task force on
+44.88 46.96	covet 19 and they're here to answer all
+46.96 48.32	your questions
+48.32 56.84	this is a special episode of talking
+56.84 59.68	point
+59.68 61.52	minister i'm going to start off with you
+61.52 62.88	why don't we just make vaccination
+62.88 64.48	compulsory for everyone
+64.48 65.84	i think that's a question steve that
+65.84 67.76	many people have asked i think we should
+67.76 69.76	first recognize that very very few
+69.76 71.44	vaccines are mandated
+71.44 73.28	be it in singapore or anywhere in the
+73.28 74.56	world even
+74.56 76.72	if you look at a vaccine that's safe and
+76.72 78.00	effective
+78.00 80.48	there may be some some segments within
+80.48 82.80	the population that are not eligible for
+82.80 84.08	the vaccine
+84.08 86.56	and we also want to respect people's
+86.56 87.52	choices
+87.52 89.44	so minister have you had your shot yet
+89.44 91.12	no i haven't steve
+91.12 93.76	we have worked out a prioritization plan
+93.76 95.92	we are going with healthcare workers
+95.92 98.64	those in the front line as priority
+98.64 100.40	thereafter we get to the elderly
+100.40 101.44	starting with those in
+101.44 104.64	70s and above cabinet ministers and the
+104.64 106.88	prime minister if we do it we try as
+106.88 108.68	much as possible to follow the
+108.68 111.20	prioritization protocol that has been
+111.20 111.76	put out
+111.76 113.52	if we were to do it earlier i think it
+113.52 116.32	gives some confidence to the public that
+116.32 118.32	the vaccines are safe and effective
+118.32 120.48	and we want to encourage all
+120.48 122.40	singaporeans and everyone in singapore
+122.40 124.48	to take up the vaccines as well
+124.48 126.48	so is it safe to say that all of you
+126.48 127.76	here agree that
+127.76 130.08	everyone should be vaccinated yes yes
+130.08 130.96	yes definitely
+130.96 132.56	in fact we will raise our hands for the
+132.56 134.48	vaccination but we just don't want to
+134.48 135.84	jump the queue
+135.84 137.68	well before we go on further let's take
+137.68 139.68	a quick look at the three types of
+139.68 140.64	vaccines
+140.64 144.24	that singapore is bringing in
+144.24 145.84	singapore has bought three types of
+145.84 148.32	vaccines pfizer biontech
+148.32 151.60	moderna and cylovac both the pfizer
+151.60 153.68	biontech and moderna vaccines
+153.68 156.48	use what is described as messenger rna
+156.48 158.00	technology
+158.00 160.00	this involves injecting snippets of the
+160.00 163.36	corvette 19 genetic code into a patient
+163.36 166.40	put simply it's a recipe to direct the
+166.40 168.64	production of a specific part of the
+168.64 169.44	virus
+169.44 171.92	the spike protein to trigger an immune
+171.92 172.96	response
+172.96 175.44	without actually exposing the patient to
+175.44 177.04	the virus
+177.04 178.80	both vaccines are said to have an
+178.80 181.92	efficacy rate of about 95 percent
+181.92 184.08	china made cyberback vaccine on the
+184.08 184.96	other hand
+184.96 188.00	uses an inactivated covet-19 virus
+188.00 190.16	to trigger an immune response when
+190.16 192.72	injected into a patient
+192.72 195.36	but there is a lack of specific results
+195.36 199.20	on its efficacy
+199.20 201.52	the pfizer biotech vaccine is already
+201.52 202.80	being used in britain
+202.80 205.84	and the us modernist vaccine only in the
+205.84 206.80	u.s
+206.80 209.76	as of 7th january cynovac is yet to be
+209.76 212.40	used by any country
+212.40 215.68	so the cylovac vaccine from china hasn't
+215.68 216.08	been
+216.08 218.00	as widely used and as we just heard
+218.00 219.92	there's no conclusive study on it yet so
+219.92 221.44	minister why did we pick
+221.44 224.16	that as one of the vaccines to be used
+224.16 225.36	in singapore well
+225.36 227.12	you have to understand that we started
+227.12 229.68	this process very early on in the start
+229.68 231.60	of the outbreak we knew that vaccines
+231.60 232.88	were important
+232.88 236.16	and so as early as april we convened an
+236.16 239.28	expert panel chaired by
+239.28 242.08	our head of civil service to look at how
+242.08 242.88	we can
+242.88 245.28	make early purchases of vaccines for
+245.28 246.40	singapore
+246.40 249.04	we have to make early bets in order for
+249.04 250.88	singapore to be near the front of the
+250.88 252.40	queue for vaccines
+252.40 255.44	and at that time there is no
+255.44 258.00	clinical data available from any vaccine
+258.00 259.44	company in terms of
+259.44 262.48	full-fledged information only very early
+262.48 265.04	stage clinical information was available
+265.04 267.04	from all the many vaccine candidates
+267.04 269.20	they narrowed down to 35
+269.20 271.84	and then they drilled down even more to
+271.84 273.68	look at safety effectiveness
+273.68 276.00	based on whatever preliminary data that
+276.00 277.44	was available then
+277.44 280.64	and eventually they decided on the tree
+280.64 282.32	and that's a tree that we have made
+282.32 284.32	advanced purchases for with the aim of
+284.32 286.48	building a diversified portfolio of
+286.48 287.36	vaccines
+287.36 289.20	that will be safe and effective for use
+289.20 291.20	in singapore and we have three now but
+291.20 292.64	that's not the end of it
+292.64 294.72	but which is safer injecting an
+294.72 296.16	inactivated virus
+296.16 299.04	or using the genetic code of the virus i
+299.04 300.48	think we must understand that all the
+300.48 301.44	vaccines that
+301.44 303.36	are approved in singapore are safe and
+303.36 304.80	efficacious so
+304.80 306.80	we're not looking at is one you know in
+306.80 308.32	a way safer than the other
+308.32 310.96	and so on but right now the only vaccine
+310.96 311.76	that's available
+311.76 314.56	is the divisor bioentech vaccine at the
+314.56 315.36	same time
+315.36 316.88	you will see that once additional
+316.88 318.64	vaccines come on board there will be
+318.64 320.16	some vaccines that can be used in
+320.16 321.68	certain sub-populations
+321.68 324.24	for example defies a vaccine cannot be
+324.24 325.60	used in people who have
+325.60 327.76	severe allergic reactions it cannot be
+327.76 328.80	used at this point
+328.80 330.96	in children below 16 in pregnant women
+330.96 332.48	in severely immunocompromised
+332.48 333.44	individuals
+333.44 335.28	other vaccines might be able to be used
+335.28 336.64	in different populations okay
+336.64 338.80	so we need to wait for more information
+338.80 341.36	and it is which vaccine is more
+341.36 344.16	uh sort of applicable or relevant to
+344.16 345.60	that particular population if it's
+345.60 346.40	offered right
+346.40 348.08	we would encourage people to get that
+348.08 350.64	vaccine but as we are talking about this
+350.64 352.48	a new strain came about what's the point
+352.48 353.84	of taking the vaccine
+353.84 356.48	yeah well mutations occur all the time
+356.48 358.08	so far as we can tell
+358.08 359.76	it seems like it probably would still
+359.76 361.76	work it's being actively tested
+361.76 363.60	and we'll know very soon because more
+363.60 365.20	than two three million people now in the
+365.20 366.48	uk in the us
+366.48 368.48	have received the vaccine one of our
+368.48 370.24	bioinformatics expert
+370.24 373.12	doctor sebastian morvis row he likens
+373.12 374.16	mutations
+374.16 376.32	to like the different number plate or
+376.32 377.68	color of a car
+377.68 380.48	the same make same model different
+380.48 381.36	license plate
+381.36 383.36	we see many of them all around the time
+383.36 384.48	and sometimes you know you
+384.48 386.32	might have a car with new tires it might
+386.32 387.52	you know be a bit more efficient move
+387.52 389.12	faster and so on but it's still the same
+389.12 389.68	make
+389.68 392.08	at this point there's no evidence that
+392.08 393.76	it has changed to another make another
+393.76 394.64	model
+394.64 396.96	another brand we understand a nurse in
+396.96 398.56	california after taking the the first
+398.56 399.68	vaccination shot
+399.68 402.08	was then tested positive for the virus
+402.08 403.12	it's the timing
+403.12 405.28	it's too short what do you mean by that
+405.28 407.20	that means your body needs some time to
+407.20 408.96	develop an immune response right after
+408.96 410.64	the first dose only
+410.64 413.20	so soon after she actually had the dose
+413.20 413.84	she
+413.84 416.00	picked up the infection and she may have
+416.00 417.36	actually been incubating at the time
+417.36 419.04	that she had the vaccination done
+419.04 420.64	so one shouldn't read this as though
+420.64 422.24	it's a vaccine failure you have to wait
+422.24 424.08	for the vaccine to work
+424.08 425.36	and it takes time that's the other point
+425.36 426.64	that's important for the public to
+426.64 427.60	understand
+427.60 429.52	for example the fisa vaccine
+429.52 431.92	specifically you need to take two doses
+431.92 434.08	three weeks apart and after the second
+434.08 436.24	dose it takes about one to two weeks
+436.24 438.88	for the full you know immune reaction to
+438.88 439.68	develop
+439.68 441.44	so that means a total of about four to
+441.44 443.76	five weeks okay after
+443.76 445.84	the first dose is given now in between
+445.84 447.68	that time that individual
+447.68 449.92	is still susceptible to of course
+449.92 451.28	exposure and and
+451.28 454.16	that's why it is important for us now in
+454.16 454.88	singapore
+454.88 456.32	for us to roll out this vaccination
+456.32 458.00	program okay because when you roll it
+458.00 458.24	out
+458.24 460.16	in you know a situation where you have
+460.16 461.28	you have an epidemic you have a lot of
+461.28 461.92	cases
+461.92 463.04	then the situation that you had
+463.04 465.92	mentioned in this uh person in the u.s
+465.92 467.60	may occur because you are trying to
+467.60 470.00	vaccinate while the virus is circulating
+470.00 472.16	it's much better to vaccinate when you
+472.16 474.16	have very little virus circulating
+474.16 477.12	such that if a virus should you know be
+477.12 478.56	introduced in the future
+478.56 481.60	you have a population that is immune and
+481.60 484.88	then you know um right sort of prevent
+484.88 487.28	any outbreak from occurring so minister
+487.28 488.56	once all the vaccines are rolled out
+488.56 489.92	will people be given the choice to
+489.92 490.40	choose
+490.40 493.52	which vaccine they want to take at this
+493.52 495.44	point in time we have pfizer only
+495.44 497.12	there's nothing to choose from
+497.12 499.12	so let's go with pfizer get people
+499.12 501.52	vaccinated on the pfizer vaccine
+501.52 503.44	if later on other vaccines are
+503.44 505.28	authorized be it moderna
+505.28 507.60	or synovac then we have to think about
+507.60 509.68	whether choice may be extended
+509.68 512.64	or as vernon highlighted perhaps some
+512.64 513.68	vaccines work
+513.68 515.60	better for certain sub-segments of the
+515.60 517.92	population and then we might allocate
+517.92 520.40	vaccines differently as well i'd like to
+520.40 521.60	know if
+521.60 523.20	the government would help to cope my
+523.20 525.36	medical bills should i get any severe
+525.36 536.64	side effects from it
+536.64 538.40	and welcome back we've been talking
+538.40 540.40	about colvit 19 vaccines and
+540.40 541.44	you know personally i'll take the
+541.44 543.60	vaccine because it will not just protect
+543.60 545.52	me but also those around me and of
+545.52 547.68	course i want to keep them safe but
+547.68 550.16	some singaporeans are still unsure about
+550.16 550.72	getting
+550.72 552.72	vaccinated and we have some of their
+552.72 554.08	questions right now
+554.08 556.00	there are studies showing that the
+556.00 557.92	vaccine can cause
+557.92 561.28	cancer and also effects on
+561.28 564.64	our health i'm 73 i have high blood
+564.64 565.68	pressure
+565.68 568.96	i have diabetes and i have poor kidney
+568.96 570.56	function
+570.56 573.60	my concern is that i will get worse side
+573.60 574.40	effects
+574.40 577.44	than a healthier person so very valid
+577.44 579.12	concerns from people there the first one
+579.12 579.68	from
+579.68 581.20	lisa she was saying that it might
+581.20 582.96	actually cause cancer
+582.96 584.88	so at this point there's no evidence
+584.88 586.80	that this vaccine will
+586.80 588.88	result in such a side effect i mean most
+588.88 590.96	of the side effects that we have seen
+590.96 593.76	from the studies are mild side effects
+593.76 595.12	and also
+595.12 596.96	the one that is known which is the
+596.96 598.80	severe allergic reaction in people
+598.80 602.08	the mrna component itself does not
+602.08 602.88	incorporate
+602.88 606.08	into our human dna it uh in fact after
+606.08 609.04	about 48 hours just sort of you know
+609.04 611.28	dissipates in the body and disintegrates
+611.28 612.48	so
+612.48 614.16	there's no evidence at this point that
+614.16 615.76	there's any such concern
+615.76 617.52	and profound the second question
+617.52 619.28	regarding those who already have
+619.28 620.80	existing health conditions yes
+620.80 622.40	they're concerned they may suffer more
+622.40 624.32	serious side effects i think annie has
+624.32 626.08	raised a very important point
+626.08 628.00	but it's precisely that particular group
+628.00 629.84	of individuals who are older
+629.84 631.36	that have the core mobilities that she
+631.36 633.44	mentioned that tend to get
+633.44 635.52	more ill and tend to have a higher
+635.52 636.48	mortality
+636.48 638.72	and it's specifically this group that we
+638.72 640.48	hope will take it up
+640.48 642.64	and get vaccinated over in the uk after
+642.64 643.52	the vaccination
+643.52 646.24	is given the doctors are monitoring
+646.24 647.44	patients they have them stick around for
+647.44 648.80	a period of time 15 minutes they'll
+648.80 650.32	monitor them i mean is that something we
+650.32 651.76	plan to do as well minister
+651.76 654.24	for sure we will be monitoring very
+654.24 656.08	closely everyone who is vaccinated in
+656.08 656.64	fact
+656.64 659.04	the authorities are looking at data not
+659.04 660.24	just from singapore but they are
+660.24 661.60	monitoring data from
+661.60 663.52	the vaccination program everywhere in
+663.52 665.20	the world clinical trials when it did
+665.20 666.56	devise a vaccine
+666.56 668.48	quite a number of those individuals were
+668.48 670.08	in fact individuals with comorbid
+670.08 671.92	medical conditions because this are the
+671.92 672.96	target crew
+672.96 674.08	for the vaccines because of the
+674.08 676.00	complications and of the many millions
+676.00 677.68	of people who are vaccinated now
+677.68 679.92	you know in the uk the u.s and elsewhere
+679.92 681.52	there's a huge diversity
+681.52 683.28	in terms of you know age co-morbid
+683.28 684.72	medical conditions etc
+684.72 686.40	so there is a wealth of data showing
+686.40 688.32	that you know the vaccine
+688.32 690.48	is safe okay we're going to take another
+690.48 692.08	question it's impossible for
+692.08 695.04	us to know what are the three to five to
+695.04 695.76	ten year
+695.76 697.60	long term effects that it will have like
+697.60 699.84	for example if and when i want to have
+699.84 702.64	kids will it be harder to conceive like
+702.64 703.28	any other
+703.28 705.36	drug vaccine we will have to of course
+705.36 707.20	monitor over the longer term
+707.20 709.20	to see if there are any rare side
+709.20 710.32	effects that might occur
+710.32 712.08	but at this point there's no evidence
+712.08 713.44	that for example
+713.44 715.68	ability to conceive would be an issue
+715.68 717.20	how concerned should i be about
+717.20 718.32	long-term side effects
+718.32 719.36	the likelihood that there will be
+719.36 722.40	long-term issues i think is very remote
+722.40 724.00	place safe per se we have not
+724.00 725.60	recommended that if you are
+725.60 727.28	pregnant at present you will take the
+727.28 728.96	vaccine wait until after you deliver
+728.96 730.64	before you take the vaccine
+730.64 731.92	i guess one of the concerns is also
+731.92 733.36	because things have happened so fast
+733.36 734.96	there is concern that the vaccines may
+734.96 736.40	not be as safe as
+736.40 738.00	what was traditionally the actual
+738.00 739.76	clinical trials process
+739.76 741.68	right the reason the companies have been
+741.68 743.28	able to shorten the process
+743.28 745.68	are twofold number one we are in a
+745.68 746.48	pandemic
+746.48 748.80	there's no shortage of volunteers
+748.80 750.64	wanting to come forward perhaps
+750.64 752.40	not in a country like singapore where
+752.40 754.16	the virus is
+754.16 757.60	not not raging but in uk us there are no
+757.60 759.52	shortage of volunteers coming forward
+759.52 761.12	they all won the vaccine
+761.12 764.16	right now right and number two they have
+764.16 765.92	been able to get these trials
+765.92 769.12	going on a concurrent basis not
+769.12 771.52	trimming back not compromising but in
+771.52 772.40	parallel
+772.40 775.28	and therefore shortening the time so the
+775.28 777.68	entire process of validation
+777.68 780.64	testing trialling looking at the data
+780.64 783.28	has not been compromised a single bit
+783.28 786.88	so no shortcuts that's right
+786.88 788.32	we have one more question okay let's
+788.32 790.96	listen i'd like to know if um
+790.96 792.48	the government would help to copy my
+792.48 794.64	medical bills should i get any severe
+794.64 795.92	side effects from it
+795.92 797.60	well that's a it's a very relevant
+797.60 799.68	concern in fact not just for covid
+799.68 802.40	vaccine but for any vaccination program
+802.40 804.56	after we've authorized we've verified
+804.56 806.16	that safe and effective
+806.16 809.28	one can never rule out the possibilities
+809.28 811.12	of a very rare
+811.12 814.32	and serious side effect effect occurring
+814.32 816.96	it will be very rare but it may happen
+816.96 818.48	so we've been looking at this and we
+818.48 820.32	think that there is a
+820.32 822.24	possibility of putting in place a
+822.24 824.88	vaccination injury assistance program
+824.88 827.60	where the government comes in for such k
+827.60 830.00	instances to help pay for the medical
+830.00 830.80	cost
+830.80 832.96	associated with it so moh has been
+832.96 834.88	looking at the parameters the
+834.88 837.36	quantum of assistance the conditions and
+837.36 839.12	the eligibility criteria
+839.12 840.72	so they will be putting out details that
+840.72 842.56	in quite a short while
+842.56 844.80	do the authorities have any alternatives
+844.80 846.80	for those singaporeans
+846.80 849.84	who are unable to get this vaccine due
+849.84 852.00	to their autoimmune disorders
+852.00 854.24	how about young children below the age
+854.24 855.44	of 12
+855.44 858.96	we as parents given a choice to say yes
+858.96 859.68	or no
+859.68 862.56	for children to take up this vaccine
+862.56 862.96	maybe
+862.96 865.04	i can answer both of these questions
+865.04 867.28	first currently for autoimmune
+867.28 869.12	conditions it very much depends on the
+869.12 870.96	underlying condition
+870.96 874.08	in so far as the testing is concerned if
+874.08 874.40	the
+874.40 877.44	condition is under control and managing
+877.44 878.48	physician feels
+878.48 881.36	it's safe enough we will probably allow
+881.36 882.00	it
+882.00 883.76	now because none of these vaccines have
+883.76 885.92	been comprehensively tested below the
+885.92 887.12	age of 16
+887.12 889.36	for pfizer in particular we are not
+889.36 891.20	recommending it for children at present
+891.20 893.04	we need to look at this holistically
+893.04 895.20	vaccine is just one part of a broader
+895.20 897.12	suite of tools that we have
+897.12 899.60	to protect ourselves so to the question
+899.60 901.28	if i don't have the vaccine is there
+901.28 903.44	anything else i can do to protect myself
+903.44 904.48	the answer is yes
+904.48 906.40	many many things all the basic
+906.40 908.48	precautions that we have been
+908.48 910.40	putting out advising and that we have
+910.40 913.12	all started to cultivate good habits for
+913.12 916.48	like hand hygiene wearing of masks
+916.48 919.28	maintaining safe distance these are all
+919.28 920.96	ways in which people can protect
+920.96 921.76	themselves
+921.76 923.36	well we have someone on the line who has
+923.36 925.44	just had a vaccination sarah lim joins
+925.44 926.72	us now she's among the first batch of
+926.72 928.80	singaporeans to be vaccinated
+928.80 930.08	all right well sarah thanks for joining
+930.08 932.08	us uh yeah we know you've just had your
+932.08 933.52	vaccination very recently talk us
+933.52 935.12	through the process what was it like for
+935.12 936.32	you
+936.32 939.84	uh it felt like an invite at the point
+939.84 942.00	of injection
+942.00 944.48	uh i was under the 30 minutes of
+944.48 946.00	observation
+946.00 948.64	to look out for any reaction from the
+948.64 949.36	vaccine
+949.36 952.72	but there was none okay well sarah do
+952.72 954.00	stay with us i'll just come back to the
+954.00 955.28	panel do we know the proportion of
+955.28 957.04	singaporeans who had suffered any
+957.04 959.52	side effects after taking the vaccine so
+959.52 960.32	far
+960.32 963.68	no no so far nobody no so from what we
+963.68 965.04	know for the
+965.04 967.28	individuals in ncid who have received
+967.28 968.48	the vaccine
+968.48 970.64	some of them have had sort of you know
+970.64 972.48	the usual
+972.48 974.88	post-vaccination effects to be expected
+974.88 975.92	for any vaccine
+975.92 977.36	and these usually go away after a few
+977.36 979.36	days i'm not sure whether sarah had
+979.36 980.64	experienced any of these
+980.64 983.28	yes i experienced soreness on the first
+983.28 984.88	two days
+984.88 988.48	around the injection area like any any
+988.48 990.32	other vaccination
+990.32 992.88	so on the third day it actually subsided
+992.88 993.52	i don't
+993.52 996.16	have any redness or soreness over the
+996.16 996.64	area
+996.64 999.84	i do felt a little bit tired okay but
+999.84 1003.04	it was it was not unusual after any
+1003.04 1004.00	vaccination
+1004.00 1005.68	but this is what sarah has gone through
+1005.68 1007.36	is the common
+1007.36 1010.80	documented experience across millions of
+1010.80 1012.32	people around the world who have been
+1012.32 1013.20	vaccinated
+1013.20 1015.28	so it's not just one data point you look
+1015.28 1017.28	at america you look at uk
+1017.28 1019.84	many many people i mean it's been just
+1019.84 1021.36	like what sarah has gone through it's a
+1021.36 1022.40	bit of an end bite
+1022.40 1024.56	you experience a bit of soreness a bit
+1024.56 1026.16	of tiredness and then it fades away
+1026.16 1027.28	after one two days
+1027.28 1029.20	and then you get on with life knowing
+1029.20 1031.44	that now you are safer you are protected
+1031.44 1032.88	once taking the vaccine doesn't mean
+1032.88 1045.36	that i can travel out to other countries
+1045.36 1048.56	well i still have to wear the mask after
+1048.56 1051.44	i get the vaccine with the vaccination
+1051.44 1052.00	does it mean
+1052.00 1054.16	that you know the way we play and work
+1054.16 1055.60	will change fundamentally
+1055.60 1056.96	for instance know the split team
+1056.96 1058.88	enrichments at work to even social
+1058.88 1060.08	gatherings and
+1060.08 1061.28	what we see that the return of
+1061.28 1063.44	entertainment like concerts right so we
+1063.44 1064.72	just heard from a few singaporeans
+1064.72 1065.28	they're all
+1065.28 1066.88	asking you know how would this vaccine
+1066.88 1069.12	really change our lives can we
+1069.12 1071.44	go back to uh happier days so to speak
+1071.44 1072.40	but minister
+1072.40 1074.48	is getting a vaccine a guaranteed
+1074.48 1076.32	protection against kobe 19.
+1076.32 1078.80	well i think the level of protection for
+1078.80 1080.96	yourself when you are vaccinated is very
+1080.96 1081.60	high
+1081.60 1084.32	as we have seen right it protects you
+1084.32 1086.80	based on the clinical trials 95
+1086.80 1090.32	efficacy so if i'm vaccinated i protect
+1090.32 1091.92	myself but can i protect
+1091.92 1094.96	others the answer is probably yes you
+1094.96 1096.32	will reduce the risk
+1096.32 1098.88	but to what extent will transmission
+1098.88 1099.52	risk be
+1099.52 1103.28	reduced we don't know the answer yet so
+1103.28 1105.84	for now for now if any one of us were to
+1105.84 1107.28	be vaccinated
+1107.28 1109.68	prevailing safe distancing measures will
+1109.68 1111.52	still apply we still have to wear masks
+1111.52 1114.00	we have to comply with all the rules
+1114.00 1116.64	at some point in time when we have more
+1116.64 1118.72	data we may start to allow for some
+1118.72 1120.72	relaxation of the requirements for
+1120.72 1121.76	example
+1121.76 1124.08	it may be that we have a large gathering
+1124.08 1125.20	say a mice
+1125.20 1127.36	event or a concert which happens today
+1127.36 1128.84	and we require
+1128.84 1132.24	pre-event testing for participants now
+1132.24 1133.44	it may well be that
+1133.44 1135.60	somebody who is vaccinated he can use
+1135.60 1136.72	his vaccination
+1136.72 1139.76	certificate and that will substitute for
+1139.76 1140.72	testing
+1140.72 1143.04	that's entirely possible once taking the
+1143.04 1144.80	vaccine doesn't mean that i can travel
+1144.80 1147.44	to other countries and once coming back
+1147.44 1148.64	to singapore
+1148.64 1150.96	will i still have to stop any mandatory
+1150.96 1151.92	regulations
+1151.92 1154.56	such as the stay home notice that's the
+1154.56 1156.56	one thing that's on many many people's
+1156.56 1157.44	minds
+1157.44 1160.56	if i get vaccinated can i travel
+1160.56 1162.72	freely and there are two parts to this
+1162.72 1163.84	answer first
+1163.84 1165.84	when you travel abroad it depends on the
+1165.84 1168.56	other receiving countries requirements
+1168.56 1171.36	regulations we have no control of that
+1171.36 1173.28	even without a vaccine today
+1173.28 1175.44	many singaporeans can already travel
+1175.44 1177.36	freely to other countries without a
+1177.36 1178.00	quarantine
+1178.00 1181.12	there because they regard singaporeans
+1181.12 1181.44	as
+1181.44 1184.40	coming from a low risk jurisdiction
+1184.40 1186.16	right so i think with a vaccination it
+1186.16 1187.60	will certainly help
+1187.60 1189.92	but those are regulations that are
+1189.92 1191.60	outside of our control
+1191.60 1193.84	but when you come back to singapore
+1193.84 1196.08	today you have to serve a 14-day
+1196.08 1198.16	stay-home notice requirement 14-day
+1198.16 1199.12	quarantine
+1199.12 1200.72	now if you have the vaccination you
+1200.72 1202.64	travel to a high-risk place you come
+1202.64 1203.12	back
+1203.12 1206.56	can that shm be shortened or even done
+1206.56 1208.56	away with completely
+1208.56 1210.72	that's the big question we still don't
+1210.72 1212.80	know the extent to which a vaccination
+1212.80 1214.16	can completely
+1214.16 1217.04	or how significantly will help reduce
+1217.04 1218.48	transmission risk
+1218.48 1221.52	so those studies are still pending
+1221.52 1223.60	if indeed the data shows that
+1223.60 1225.12	transmission risk can
+1225.12 1227.92	come down significantly with vaccination
+1227.92 1228.96	then certainly
+1228.96 1232.64	we will consider reducing drastically
+1232.64 1234.08	the shn or even
+1234.08 1236.32	doing away with it some are hearing that
+1236.32 1237.92	you know flights may require that you be
+1237.92 1239.60	vaccinated before you can even get on
+1239.60 1240.80	board the flight
+1240.80 1244.08	yeah it may be um it's still too early
+1244.08 1244.56	to say
+1244.56 1246.64	i know there are one or two airlines
+1246.64 1248.00	that have indicated they might
+1248.00 1251.04	require vaccination as a requirement
+1251.04 1254.08	it may happen but but you know it's
+1254.08 1255.04	still early days
+1255.04 1257.44	i don't think the entire airline
+1257.44 1259.20	aviation industry is
+1259.20 1261.84	is unanimous in moving in this direction
+1261.84 1262.72	yet
+1262.72 1264.64	overall if a larger number of the
+1264.64 1266.24	population significant number of the
+1266.24 1267.12	population
+1267.12 1270.00	have been vaccinated and therefore are
+1270.00 1272.24	relatively immune to the condition
+1272.24 1274.96	the ability of an infectious individual
+1274.96 1276.72	to then spread to a large number of
+1276.72 1278.40	individuals becomes significantly
+1278.40 1279.28	impacted
+1279.28 1281.68	and we will no longer see large
+1281.68 1282.32	outbreaks
+1282.32 1284.24	but that required a large proportion of
+1284.24 1285.44	the population to be
+1285.44 1287.28	vaccinated i mean what kind of numbers
+1287.28 1288.40	are we looking at here how much of the
+1288.40 1289.36	population
+1289.36 1292.32	there's no magic number that we can say
+1292.32 1293.68	at the moment because we don't
+1293.68 1296.24	yet have the data but what we will know
+1296.24 1298.16	is that we will need high coverage that
+1298.16 1298.96	means that
+1298.96 1301.44	whoever is eligible for the vaccine
+1301.44 1302.80	should get vaccinated
+1302.80 1305.28	so that we can reach that target a lot
+1305.28 1306.96	quicker and have that collective
+1306.96 1308.24	protection
+1308.24 1311.20	no country is safe until every country
+1311.20 1312.16	is safe
+1312.16 1314.64	even if we have a very high percentage
+1314.64 1316.88	of people in singapore being vaccinated
+1316.88 1318.08	we will not be safe
+1318.08 1320.40	until the whole world is vaccinated it
+1320.40 1322.24	will take a long time for the world to
+1322.24 1323.60	be vaccinated
+1323.60 1325.76	not one year not within this year for
+1325.76 1326.72	sure
+1326.72 1329.92	it may take two years i don't know so
+1329.92 1332.96	the reality this is a long fight a
+1332.96 1333.68	vaccine
+1333.68 1336.64	is certainly a very important weapon in
+1336.64 1337.84	our arsenal
+1337.84 1340.32	but it's not a silver bullet because
+1340.32 1342.00	it's voluntary we must expect that there
+1342.00 1343.76	will be some who will choose not to get
+1343.76 1345.28	vaccinated possibly yes
+1345.28 1347.20	what will happen to them will life be
+1347.20 1349.20	different for them it could very well be
+1349.20 1351.52	there will be these tangible benefits
+1351.52 1353.04	and those who choose not to be
+1353.04 1354.48	vaccinated well
+1354.48 1356.32	then you have to live with more frequent
+1356.32 1358.24	tests you have to live with quarantines
+1358.24 1359.12	you have to live with
+1359.12 1360.72	all of these other additional
+1360.72 1363.12	requirements even if we
+1363.12 1365.12	reach that sort of hurt immunity or
+1365.12 1366.64	collective protection level
+1366.64 1368.24	it does not mean that there will be no
+1368.24 1371.12	cases so if you're not vaccinated every
+1371.12 1371.60	single
+1371.60 1373.36	individual who is not vaccinated is
+1373.36 1374.96	another
+1374.96 1377.76	naive susceptible individual who then
+1377.76 1379.68	can get infected by that disease
+1379.68 1382.00	i think we also need to remember this is
+1382.00 1383.76	covet today but there will be future
+1383.76 1384.64	pandemics
+1384.64 1386.48	there will be a more potent more
+1386.48 1388.08	virulent disease
+1388.08 1390.48	acts down the road and so i think rather
+1390.48 1391.68	than thinking about let's
+1391.68 1394.80	go back to life before covet i think we
+1394.80 1396.64	should be thinking now about what's
+1396.64 1398.32	what are the things that we have done
+1398.32 1400.16	during this period that really ought to
+1400.16 1401.12	be permanently
+1401.12 1403.28	permanently part of our new daily
+1403.28 1404.64	routines
+1404.64 1407.44	and how can we raise our levels of
+1407.44 1408.24	defenses
+1408.24 1410.16	our levels of protection our levels of
+1410.16 1412.48	hygiene so that we can be more
+1412.48 1414.32	prepared and more resilient in the
+1414.32 1416.32	future all right well gentlemen thank
+1416.32 1417.92	you so much for coming and sharing your
+1417.92 1418.88	insights on this
+1418.88 1420.48	well that's all the time we have for
+1420.48 1422.40	today thank you all for joining us we
+1422.40 1424.00	hope we've been able to address some of
+1424.00 1424.32	the
+1424.32 1425.92	questions and concerns you have with
+1425.92 1428.16	regard to the corvette 19 vaccines
+1428.16 1430.96	and now that vaccine is rolled out and
+1430.96 1432.56	when it comes out to the wider community
+1432.56 1434.40	we hope that you will also be encouraged
+1434.40 1438.88	to get vaccinated

@@ -143,6 +143,7 @@ class RedditPostScraper:
 
 
 search_str_input = sys.argv[1]
+search_str_input = search_str_input.replace("_", " ")
 num_posts_input = sys.argv[2]
 if sys.argv[3] == 'comments_true':
     comments_bool_input = True
