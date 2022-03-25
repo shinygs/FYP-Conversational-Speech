@@ -21,19 +21,19 @@ This script segments YouTube video transcripts into proper sentences with timest
 ```
 $ youtube-dl --write-auto-sub --skip-download "https://www.youtube.com/watch?v=6TfJeJwBKdw
 ```
-Rename the generated file to 'input.vtt' and ensure it is located in the vtt_clean folder
+Rename the generated file to 'input.vtt' and ensure it is located in the vtt_clean folder. 
 <br/>
 <br/>
-2. Run Prof Chng's VTT cleaning script to remove repeating lines and improper formatting in the 'input.vtt' file:
+2. Run Prof Chng's VTT cleaning script to remove repeating lines and improper formatting in the 'input.vtt' file (Ensure correct input and output file paths in the script):
 ```
 $ python convertYouTubeVTT_textNormalize.py 
 ```
 A 'output.vtt' file will be located in the vtt_clean folder
 <br/>
 <br/>
-3. Run the sentence_segementation_with_times.py script on the 'output.vtt' file:
+3. Run the sentence_segmentation_with_times.py script on the 'output.vtt' file:
 ```
-$ python sentence_segementation_with_times.py C:/example/cwd/mydir/vtt_clean/output.vtt
+$ python sentence_segmentation_with_times.py C:/example/cwd/mydir/vtt_clean/output.vtt
 ```
 The new file with the segmented sentences and timestamps will be located at C:/example/cwd/mydir/vtt_clean/segmented_text_with_times.txt
 <br/>
