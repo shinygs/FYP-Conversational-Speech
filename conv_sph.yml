@@ -508,4 +508,4 @@ dependencies:
     - wordcloud==1.8.1
     - youtube-dl==2021.6.6
     - youtube-transcript-api==0.4.1
-prefix: C:\Users\shiny\Anaconda3
+prefix: C:\Users\shiny\Anaconda3\envs\conv_sph
